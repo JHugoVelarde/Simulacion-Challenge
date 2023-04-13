@@ -1,3 +1,7 @@
+# **RESUELTO - SIMULACION CHALLENGE**
+
+![Simulacion](../Simulacion-Challenge/simulacion.png)
+
 # Simulación de Henry Challenge para Practicar - JAVASCRIPT
 
 ## Lee con atención todo el material.
