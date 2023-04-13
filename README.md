@@ -1,6 +1,6 @@
 # **RESUELTO - SIMULACION CHALLENGE**
 
-![Simulacion](../Simulacion-Challenge/simulacion.png)
+![Simulacion](https://github.com/JHugoVelarde/Simulacion-Challenge/blob/main/simulacion.png)
 
 # Simulación de Henry Challenge para Practicar - JAVASCRIPT
 
